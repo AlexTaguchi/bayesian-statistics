@@ -19,3 +19,4 @@ Overview of Bayesian statistics and its applications in machine learning
   - The more we flip the coin, the more our posterior belief (current belief) is updated from our prior belief (that the coin is fair) in the presence of new information
 
 #### Bayes' Theorem
+![Bayes_Theorem](Bayes_Theorem.svg)
