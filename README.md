@@ -4,6 +4,7 @@ Overview of Bayesian statistics and its applications in machine learning
 *References:*
 - https://www.quantstart.com/articles/Bayesian-Statistics-A-Beginners-Guide
 - https://en.wikipedia.org/wiki/Bayes%27_theorem
+- https://www.probabilisticworld.com/calculating-coin-bias-bayes-theorem/
 
 ### Comparison of Frequentist and Bayesian statistics
 - Frequentist statistics: The probability of observing a particular event is calculated by considering only how often it has happened in the past.
