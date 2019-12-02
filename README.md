@@ -20,3 +20,7 @@ Overview of Bayesian statistics and its applications in machine learning
 
 #### Bayes' Theorem
 ![Bayes_Theorem](Bayes_Theorem.svg)
+- P(A) is the **prior**: This is the strength of our belief in A (how fair the coin is) without considering evidence B
+- P(A|B) is the **posterior**: Updated belief of A once the evidence B (result of coin flip trials) has been taken into account
+- P(B|A) is the **likelihood**: Probability of observing B given A (if we knew the coin was fair, how likely is any given outcome)
+- P(B) is the **evidence**: This is the probability of B (a seqeunce of coin flips) occuring
